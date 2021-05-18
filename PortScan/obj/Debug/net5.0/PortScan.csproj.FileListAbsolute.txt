@@ -1,0 +1,16 @@
+C:\ООП\PortScan\PortScan\bin\Debug\net5.0\PortScan.exe
+C:\ООП\PortScan\PortScan\bin\Debug\net5.0\PortScan.deps.json
+C:\ООП\PortScan\PortScan\bin\Debug\net5.0\PortScan.runtimeconfig.json
+C:\ООП\PortScan\PortScan\bin\Debug\net5.0\PortScan.runtimeconfig.dev.json
+C:\ООП\PortScan\PortScan\bin\Debug\net5.0\PortScan.dll
+C:\ООП\PortScan\PortScan\bin\Debug\net5.0\ref\PortScan.dll
+C:\ООП\PortScan\PortScan\bin\Debug\net5.0\PortScan.pdb
+C:\ООП\PortScan\PortScan\obj\Debug\net5.0\PortScan.csprojAssemblyReference.cache
+C:\ООП\PortScan\PortScan\obj\Debug\net5.0\PortScan.GeneratedMSBuildEditorConfig.editorconfig
+C:\ООП\PortScan\PortScan\obj\Debug\net5.0\PortScan.AssemblyInfoInputs.cache
+C:\ООП\PortScan\PortScan\obj\Debug\net5.0\PortScan.AssemblyInfo.cs
+C:\ООП\PortScan\PortScan\obj\Debug\net5.0\PortScan.csproj.CoreCompileInputs.cache
+C:\ООП\PortScan\PortScan\obj\Debug\net5.0\PortScan.dll
+C:\ООП\PortScan\PortScan\obj\Debug\net5.0\ref\PortScan.dll
+C:\ООП\PortScan\PortScan\obj\Debug\net5.0\PortScan.pdb
+C:\ООП\PortScan\PortScan\obj\Debug\net5.0\PortScan.genruntimeconfig.cache
