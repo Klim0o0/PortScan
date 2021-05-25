@@ -40,6 +40,12 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "CommandLineParser": {
+              "target": "Package",
+              "version": "[2.9.0-preview1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

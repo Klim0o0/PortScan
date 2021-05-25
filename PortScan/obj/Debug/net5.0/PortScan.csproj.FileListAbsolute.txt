@@ -14,3 +14,5 @@ C:\ООП\PortScan\PortScan\obj\Debug\net5.0\PortScan.dll
 C:\ООП\PortScan\PortScan\obj\Debug\net5.0\ref\PortScan.dll
 C:\ООП\PortScan\PortScan\obj\Debug\net5.0\PortScan.pdb
 C:\ООП\PortScan\PortScan\obj\Debug\net5.0\PortScan.genruntimeconfig.cache
+C:\ООП\PortScan\PortScan\bin\Debug\net5.0\CommandLine.dll
+C:\ООП\PortScan\PortScan\obj\Debug\net5.0\PortScan.csproj.CopyComplete
